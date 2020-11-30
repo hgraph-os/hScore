@@ -1,5 +1,6 @@
 # hScore
 hScore is an algorithm for scoring a person's health.
+hScore is a number from 1 to 100 that is correlated with a persons health behaviors and metrics. As more metrics are added, hScore is updated to reflect the aggregate information.
 
 hScore is currently a concept and has not been developed.
 
